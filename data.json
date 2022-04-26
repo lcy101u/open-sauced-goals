@@ -1,8 +1,20 @@
 [
   {
+    "full_name": "rust-lang/rust",
+    "stargazers_count": 65938,
+    "open_issues_count": 8539,
+    "forks_count": 9119
+  },
+  {
+    "full_name": "lcy101u/twitter-api-2020",
+    "stargazers_count": 0,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 39766,
+    "stargazers_count": 39767,
     "open_issues_count": 77,
-    "forks_count": 5601
+    "forks_count": 5602
   }
 ]
