@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "eludadev/css-buttons",
+    "stargazers_count": 544,
+    "open_issues_count": 0,
+    "forks_count": 43
+  },
+  {
     "full_name": "browserless/chrome",
-    "stargazers_count": 4549,
-    "open_issues_count": 19,
-    "forks_count": 445
+    "stargazers_count": 4555,
+    "open_issues_count": 18,
+    "forks_count": 446
   },
   {
     "full_name": "facebook/docusaurus",
-    "stargazers_count": 33467,
-    "open_issues_count": 194,
-    "forks_count": 4883
+    "stargazers_count": 33525,
+    "open_issues_count": 191,
+    "forks_count": 4894
   },
   {
     "full_name": "yiliansource/party-js",
-    "stargazers_count": 691,
+    "stargazers_count": 692,
     "open_issues_count": 6,
     "forks_count": 29
   },
   {
     "full_name": "Uniswap/v3-core",
-    "stargazers_count": 2507,
+    "stargazers_count": 2514,
     "open_issues_count": 12,
-    "forks_count": 1170
+    "forks_count": 1177
   },
   {
     "full_name": "tmm/wagmi",
-    "stargazers_count": 1901,
+    "stargazers_count": 1926,
     "open_issues_count": 5,
-    "forks_count": 181
+    "forks_count": 187
   },
   {
     "full_name": "chainfeeds/RSSAggregatorforWeb3",
-    "stargazers_count": 1276,
+    "stargazers_count": 1317,
     "open_issues_count": 2,
-    "forks_count": 245
+    "forks_count": 248
   },
   {
     "full_name": "ethereumbook/ethereumbook",
-    "stargazers_count": 15007,
+    "stargazers_count": 15038,
     "open_issues_count": 63,
-    "forks_count": 3703
+    "forks_count": 3707
   },
   {
     "full_name": "MoralisWeb3/youtube-tutorials",
-    "stargazers_count": 302,
+    "stargazers_count": 308,
     "open_issues_count": 17,
-    "forks_count": 707
+    "forks_count": 723
   },
   {
     "full_name": "IAmJaysWay/Moralis-Blockchain-Notifications",
@@ -55,81 +61,81 @@
   },
   {
     "full_name": "AmazingAng/WTFSolidity",
-    "stargazers_count": 822,
-    "open_issues_count": 2,
-    "forks_count": 79
+    "stargazers_count": 892,
+    "open_issues_count": 1,
+    "forks_count": 93
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 66874,
-    "open_issues_count": 8604,
-    "forks_count": 9245
+    "stargazers_count": 66942,
+    "open_issues_count": 8613,
+    "forks_count": 9255
   },
   {
     "full_name": "ipfs/go-ipfs",
-    "stargazers_count": 13591,
+    "stargazers_count": 13607,
     "open_issues_count": 1133,
-    "forks_count": 2641
+    "forks_count": 2642
   },
   {
     "full_name": "suhailkakar/Decentralized-YouTube",
     "stargazers_count": 304,
     "open_issues_count": 3,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "30-seconds/30-seconds-of-code",
-    "stargazers_count": 95836,
+    "stargazers_count": 95879,
     "open_issues_count": 0,
     "forks_count": 10142
   },
   {
     "full_name": "dailydotdev/daily",
-    "stargazers_count": 7061,
+    "stargazers_count": 7087,
     "open_issues_count": 44,
     "forks_count": 264
   },
   {
     "full_name": "thedaviddias/Front-End-Performance-Checklist",
-    "stargazers_count": 14457,
+    "stargazers_count": 14459,
     "open_issues_count": 11,
     "forks_count": 1063
   },
   {
     "full_name": "Idered/chalk.ist",
-    "stargazers_count": 351,
+    "stargazers_count": 356,
     "open_issues_count": 8,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "abhisheknaiidu/awesome-github-profile-readme",
-    "stargazers_count": 12601,
-    "open_issues_count": 352,
-    "forks_count": 2178
+    "stargazers_count": 12629,
+    "open_issues_count": 353,
+    "forks_count": 2187
   },
   {
     "full_name": "javascript-tutorial/en.javascript.info",
-    "stargazers_count": 17641,
-    "open_issues_count": 90,
-    "forks_count": 3167
+    "stargazers_count": 17658,
+    "open_issues_count": 91,
+    "forks_count": 3169
   },
   {
     "full_name": "tandpfun/skill-icons",
-    "stargazers_count": 522,
-    "open_issues_count": 8,
-    "forks_count": 41
+    "stargazers_count": 532,
+    "open_issues_count": 9,
+    "forks_count": 45
   },
   {
     "full_name": "anuraghazra/github-readme-stats",
-    "stargazers_count": 41546,
-    "open_issues_count": 279,
-    "forks_count": 9958
+    "stargazers_count": 41668,
+    "open_issues_count": 274,
+    "forks_count": 9975
   },
   {
     "full_name": "hoppscotch/hoppscotch",
-    "stargazers_count": 43617,
-    "open_issues_count": 74,
-    "forks_count": 2939
+    "stargazers_count": 43684,
+    "open_issues_count": 79,
+    "forks_count": 2944
   },
   {
     "full_name": "realdennis/video2gif",
@@ -139,9 +145,9 @@
   },
   {
     "full_name": "remotion-dev/remotion",
-    "stargazers_count": 13067,
-    "open_issues_count": 64,
-    "forks_count": 528
+    "stargazers_count": 13080,
+    "open_issues_count": 65,
+    "forks_count": 527
   },
   {
     "full_name": "tooto1985/js-array-operations",
