@@ -1,14 +1,14 @@
 [
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 88269,
-    "open_issues_count": 1631,
-    "forks_count": 23661
+    "stargazers_count": 88290,
+    "open_issues_count": 1613,
+    "forks_count": 23671
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 67663,
-    "open_issues_count": 8683,
+    "stargazers_count": 67697,
+    "open_issues_count": 8688,
     "forks_count": 9361
   },
   {
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 40840,
+    "stargazers_count": 40858,
     "open_issues_count": 93,
-    "forks_count": 5668
+    "forks_count": 5670
   }
 ]
