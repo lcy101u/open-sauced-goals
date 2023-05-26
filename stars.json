@@ -1,27 +1,27 @@
 [
   {
     "full_name": "microsoft/guidance",
-    "stargazers_count": 7470,
-    "open_issues_count": 42,
-    "forks_count": 482
+    "stargazers_count": 8079,
+    "open_issues_count": 44,
+    "forks_count": 514
   },
   {
     "full_name": "Significant-Gravitas/Auto-GPT",
-    "stargazers_count": 133810,
+    "stargazers_count": 135024,
     "open_issues_count": 768,
-    "forks_count": 27523
+    "forks_count": 27912
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 42422,
-    "open_issues_count": 248,
-    "forks_count": 4476
+    "stargazers_count": 43006,
+    "open_issues_count": 266,
+    "forks_count": 4551
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 11371,
-    "open_issues_count": 98,
-    "forks_count": 414
+    "stargazers_count": 11452,
+    "open_issues_count": 109,
+    "forks_count": 416
   },
   {
     "full_name": "ncitron/badcrypto",
@@ -31,39 +31,39 @@
   },
   {
     "full_name": "lynchjames/obsidian-day-planner",
-    "stargazers_count": 1364,
+    "stargazers_count": 1368,
     "open_issues_count": 142,
     "forks_count": 443
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 14031,
-    "open_issues_count": 154,
-    "forks_count": 932
+    "stargazers_count": 14138,
+    "open_issues_count": 160,
+    "forks_count": 939
   },
   {
     "full_name": "scaffold-eth/scaffold-eth",
-    "stargazers_count": 8694,
+    "stargazers_count": 8704,
     "open_issues_count": 66,
-    "forks_count": 3143
+    "forks_count": 3141
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 46755,
-    "open_issues_count": 339,
-    "forks_count": 2775
+    "stargazers_count": 46827,
+    "open_issues_count": 342,
+    "forks_count": 2776
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 7644,
-    "open_issues_count": 18,
-    "forks_count": 604
+    "stargazers_count": 7701,
+    "open_issues_count": 17,
+    "forks_count": 607
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 6484,
+    "stargazers_count": 6498,
     "open_issues_count": 235,
-    "forks_count": 1088
+    "forks_count": 1089
   },
   {
     "full_name": "foolstack-omg/solidity-contracts",
@@ -73,45 +73,45 @@
   },
   {
     "full_name": "markmap/markmap",
-    "stargazers_count": 5117,
-    "open_issues_count": 50,
-    "forks_count": 313
+    "stargazers_count": 5135,
+    "open_issues_count": 48,
+    "forks_count": 315
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 22231,
-    "open_issues_count": 252,
-    "forks_count": 760
+    "stargazers_count": 22327,
+    "open_issues_count": 254,
+    "forks_count": 765
   },
   {
     "full_name": "google/googletest",
-    "stargazers_count": 29695,
-    "open_issues_count": 294,
-    "forks_count": 9345
+    "stargazers_count": 29724,
+    "open_issues_count": 300,
+    "forks_count": 9357
   },
   {
     "full_name": "DefiLlama/chainlist",
-    "stargazers_count": 1223,
-    "open_issues_count": 22,
-    "forks_count": 903
+    "stargazers_count": 1234,
+    "open_issues_count": 5,
+    "forks_count": 907
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 20674,
-    "open_issues_count": 214,
-    "forks_count": 1376
+    "stargazers_count": 20751,
+    "open_issues_count": 219,
+    "forks_count": 1382
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 24160,
+    "stargazers_count": 24265,
     "open_issues_count": 34,
-    "forks_count": 1295
+    "forks_count": 1298
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 13016,
-    "open_issues_count": 146,
-    "forks_count": 416
+    "stargazers_count": 13034,
+    "open_issues_count": 147,
+    "forks_count": 418
   },
   {
     "full_name": "t4sk/sol-best-practices",
@@ -121,27 +121,27 @@
   },
   {
     "full_name": "spearbit/portfolio",
-    "stargazers_count": 339,
+    "stargazers_count": 342,
     "open_issues_count": 2,
     "forks_count": 29
   },
   {
     "full_name": "diem/diem",
-    "stargazers_count": 16689,
-    "open_issues_count": 379,
+    "stargazers_count": 16691,
+    "open_issues_count": 380,
     "forks_count": 2603
   },
   {
     "full_name": "tc39/ecma262",
-    "stargazers_count": 14122,
-    "open_issues_count": 384,
-    "forks_count": 1323
+    "stargazers_count": 14131,
+    "open_issues_count": 386,
+    "forks_count": 1324
   },
   {
     "full_name": "PrismJS/prism",
-    "stargazers_count": 11304,
-    "open_issues_count": 304,
-    "forks_count": 1289
+    "stargazers_count": 11315,
+    "open_issues_count": 305,
+    "forks_count": 1287
   },
   {
     "full_name": "KULeuven-COSIC/Starlink-FI",
@@ -151,31 +151,31 @@
   },
   {
     "full_name": "coder/coder",
-    "stargazers_count": 4404,
-    "open_issues_count": 427,
-    "forks_count": 344
+    "stargazers_count": 4435,
+    "open_issues_count": 433,
+    "forks_count": 349
   },
   {
     "full_name": "openreplay/openreplay",
-    "stargazers_count": 7465,
-    "open_issues_count": 78,
+    "stargazers_count": 7479,
+    "open_issues_count": 84,
     "forks_count": 346
   },
   {
     "full_name": "WTFAcademy/WTF-Ethers",
-    "stargazers_count": 1762,
+    "stargazers_count": 1774,
     "open_issues_count": 4,
-    "forks_count": 266
+    "forks_count": 267
   },
   {
     "full_name": "tauri-apps/tauri",
-    "stargazers_count": 63726,
-    "open_issues_count": 494,
-    "forks_count": 1726
+    "stargazers_count": 63843,
+    "open_issues_count": 478,
+    "forks_count": 1732
   },
   {
     "full_name": "honzaap/GithubCity",
-    "stargazers_count": 986,
+    "stargazers_count": 987,
     "open_issues_count": 1,
     "forks_count": 47
   }
