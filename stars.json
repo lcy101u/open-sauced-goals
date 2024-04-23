@@ -1,75 +1,81 @@
 [
   {
+    "full_name": "daveearley/screenshot.rocks",
+    "stargazers_count": 648,
+    "open_issues_count": 8,
+    "forks_count": 51
+  },
+  {
     "full_name": "Lissy93/web-check",
-    "stargazers_count": 18810,
-    "open_issues_count": 37,
-    "forks_count": 1385
+    "stargazers_count": 18868,
+    "open_issues_count": 33,
+    "forks_count": 1394
   },
   {
     "full_name": "JushBJJ/Mr.-Ranedeer-AI-Tutor",
-    "stargazers_count": 26372,
+    "stargazers_count": 26470,
     "open_issues_count": 12,
-    "forks_count": 3017
+    "forks_count": 3030
   },
   {
     "full_name": "pk910/PoWFaucet",
-    "stargazers_count": 3325,
-    "open_issues_count": 5,
-    "forks_count": 1240
+    "stargazers_count": 3361,
+    "open_issues_count": 7,
+    "forks_count": 1251
   },
   {
     "full_name": "ChatGPTNextWeb/ChatGPT-Next-Web",
-    "stargazers_count": 67604,
-    "open_issues_count": 223,
-    "forks_count": 54735
+    "stargazers_count": 67829,
+    "open_issues_count": 233,
+    "forks_count": 54903
   },
   {
     "full_name": "Cyfrin/foundry-full-course-f23",
-    "stargazers_count": 2465,
+    "stargazers_count": 2484,
     "open_issues_count": 20,
-    "forks_count": 584
+    "forks_count": 587
   },
   {
     "full_name": "s0md3v/roop",
-    "stargazers_count": 24784,
+    "stargazers_count": 24832,
     "open_issues_count": 5,
-    "forks_count": 5864
+    "forks_count": 5881
   },
   {
     "full_name": "line/line-openapi",
     "stargazers_count": 127,
-    "open_issues_count": 1,
-    "forks_count": 24
+    "open_issues_count": 6,
+    "forks_count": 22
   },
   {
     "full_name": "XingangPan/DragGAN",
-    "stargazers_count": 34911,
+    "stargazers_count": 34925,
     "open_issues_count": 145,
-    "forks_count": 3325
+    "forks_count": 3327
   },
   {
     "full_name": "guidance-ai/guidance",
-    "stargazers_count": 17185,
-    "open_issues_count": 195,
-    "forks_count": 941
+    "stargazers_count": 17246,
+    "open_issues_count": 194,
+    "forks_count": 946
   },
   {
     "full_name": "Significant-Gravitas/AutoGPT",
-    "stargazers_count": 161046,
-    "open_issues_count": 209,
-    "forks_count": 41932
+    "stargazers_count": 161188,
+    "open_issues_count": 211,
+    "forks_count": 42009
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 63707,
-    "open_issues_count": 394,
-    "forks_count": 6988
+    "stargazers_count": 63883,
+    "open_issues_count": 395,
+    "forks_count": 7001
   },
   {
     "full_name": "immich-app/immich",
-    "stargazers_count": 30201,
-    "open_issues_count": 447,
-    "forks_count": 1378
+    "stargazers_count": 30667,
+    "open_issues_count": 479,
+    "forks_count": 1421
   },
   {
     "full_name": "ncitron/badcrypto",
@@ -79,37 +85,37 @@
   },
   {
     "full_name": "ivan-lednev/obsidian-day-planner",
-    "stargazers_count": 1841,
-    "open_issues_count": 108,
-    "forks_count": 468
+    "stargazers_count": 1847,
+    "open_issues_count": 111,
+    "forks_count": 470
   },
   {
     "full_name": "usememos/memos",
-    "stargazers_count": 27066,
-    "open_issues_count": 45,
-    "forks_count": 1972
+    "stargazers_count": 27145,
+    "open_issues_count": 46,
+    "forks_count": 1987
   },
   {
     "full_name": "scaffold-eth/scaffold-eth",
-    "stargazers_count": 8973,
+    "stargazers_count": 8974,
     "open_issues_count": 2,
-    "forks_count": 3484
+    "forks_count": 3489
   },
   {
     "full_name": "alacritty/alacritty",
-    "stargazers_count": 52610,
+    "stargazers_count": 52683,
     "open_issues_count": 323,
-    "forks_count": 2914
+    "forks_count": 2918
   },
   {
     "full_name": "blueedgetechno/win11React",
-    "stargazers_count": 8840,
+    "stargazers_count": 8850,
     "open_issues_count": 23,
-    "forks_count": 864
+    "forks_count": 869
   },
   {
     "full_name": "locomotivemtl/locomotive-scroll",
-    "stargazers_count": 7367,
+    "stargazers_count": 7377,
     "open_issues_count": 262,
     "forks_count": 1106
   },
@@ -121,44 +127,44 @@
   },
   {
     "full_name": "markmap/markmap",
-    "stargazers_count": 6886,
+    "stargazers_count": 6920,
     "open_issues_count": 46,
-    "forks_count": 469
+    "forks_count": 471
   },
   {
     "full_name": "colinhacks/zod",
-    "stargazers_count": 30174,
-    "open_issues_count": 355,
-    "forks_count": 1029
+    "stargazers_count": 30271,
+    "open_issues_count": 333,
+    "forks_count": 1033
   },
   {
     "full_name": "google/googletest",
-    "stargazers_count": 33043,
-    "open_issues_count": 318,
-    "forks_count": 9908
+    "stargazers_count": 33067,
+    "open_issues_count": 317,
+    "forks_count": 9902
   },
   {
     "full_name": "DefiLlama/chainlist",
-    "stargazers_count": 2061,
-    "open_issues_count": 19,
-    "forks_count": 1367
+    "stargazers_count": 2069,
+    "open_issues_count": 18,
+    "forks_count": 1372
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 32448,
-    "open_issues_count": 330,
-    "forks_count": 3381
+    "stargazers_count": 32468,
+    "open_issues_count": 326,
+    "forks_count": 3380
   },
   {
     "full_name": "AykutSarac/jsoncrack.com",
-    "stargazers_count": 28399,
-    "open_issues_count": 47,
-    "forks_count": 1635
+    "stargazers_count": 28407,
+    "open_issues_count": 48,
+    "forks_count": 1637
   },
   {
     "full_name": "extrawurst/gitui",
-    "stargazers_count": 16959,
-    "open_issues_count": 158,
+    "stargazers_count": 16978,
+    "open_issues_count": 160,
     "forks_count": 519
   },
   {
@@ -172,11 +178,5 @@
     "stargazers_count": 470,
     "open_issues_count": 2,
     "forks_count": 41
-  },
-  {
-    "full_name": "diem/diem",
-    "stargazers_count": 16680,
-    "open_issues_count": 364,
-    "forks_count": 2568
   }
 ]
