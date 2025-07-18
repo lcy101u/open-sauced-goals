@@ -1,19 +1,19 @@
 [
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 16518,
+    "stargazers_count": 16600,
     "open_issues_count": 26,
-    "forks_count": 1523
+    "forks_count": 1540
   },
   {
     "full_name": "ryoppippi/ccusage",
-    "stargazers_count": 4179,
-    "open_issues_count": 34,
-    "forks_count": 132
+    "stargazers_count": 4498,
+    "open_issues_count": 42,
+    "forks_count": 140
   },
   {
     "full_name": "Wangxs404/video2ppt",
-    "stargazers_count": 173,
+    "stargazers_count": 175,
     "open_issues_count": 1,
     "forks_count": 22
   },
@@ -25,21 +25,21 @@
   },
   {
     "full_name": "infiniflow/ragflow",
-    "stargazers_count": 59905,
-    "open_issues_count": 2447,
-    "forks_count": 5975
+    "stargazers_count": 60208,
+    "open_issues_count": 2458,
+    "forks_count": 6025
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 118201,
-    "open_issues_count": 987,
-    "forks_count": 35536
+    "stargazers_count": 119809,
+    "open_issues_count": 983,
+    "forks_count": 36062
   },
   {
     "full_name": "wonderwhy-er/DesktopCommanderMCP",
-    "stargazers_count": 3889,
-    "open_issues_count": 55,
-    "forks_count": 434
+    "stargazers_count": 3916,
+    "open_issues_count": 53,
+    "forks_count": 436
   },
   {
     "full_name": "hyoban/sakuin",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "FoundationAgents/OpenManus",
-    "stargazers_count": 47959,
-    "open_issues_count": 548,
-    "forks_count": 8386
+    "stargazers_count": 48075,
+    "open_issues_count": 550,
+    "forks_count": 8411
   },
   {
     "full_name": "akazwz/openchat-monorepo",
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "QuantVela/build-your-onchain-agent",
-    "stargazers_count": 277,
+    "stargazers_count": 278,
     "open_issues_count": 3,
     "forks_count": 115
   },
@@ -73,27 +73,27 @@
   },
   {
     "full_name": "leochen-g/dify-schedule",
-    "stargazers_count": 626,
+    "stargazers_count": 630,
     "open_issues_count": 17,
-    "forks_count": 515
+    "forks_count": 525
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 18236,
+    "stargazers_count": 18556,
     "open_issues_count": 0,
-    "forks_count": 691
+    "forks_count": 711
   },
   {
     "full_name": "David-patrick-chuks/Riona-AI-Agent",
-    "stargazers_count": 3483,
+    "stargazers_count": 3488,
     "open_issues_count": 36,
     "forks_count": 644
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 65490,
-    "open_issues_count": 550,
-    "forks_count": 7502
+    "stargazers_count": 65734,
+    "open_issues_count": 562,
+    "forks_count": 7534
   },
   {
     "full_name": "spaceandtimefdn/SxT-Go-SDK",
@@ -103,79 +103,79 @@
   },
   {
     "full_name": "spaceandtimefdn/SxT-NodeJS-SDK",
-    "stargazers_count": 3304,
+    "stargazers_count": 3305,
     "open_issues_count": 1,
     "forks_count": 65
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 33022,
-    "open_issues_count": 166,
-    "forks_count": 941
+    "stargazers_count": 33141,
+    "open_issues_count": 168,
+    "forks_count": 943
   },
   {
     "full_name": "vercel/next-forge",
-    "stargazers_count": 6248,
+    "stargazers_count": 6260,
     "open_issues_count": 66,
     "forks_count": 542
   },
   {
     "full_name": "virattt/ai-hedge-fund",
-    "stargazers_count": 38098,
+    "stargazers_count": 38192,
     "open_issues_count": 39,
-    "forks_count": 6694
+    "forks_count": 6713
   },
   {
     "full_name": "elizaOS/eliza",
-    "stargazers_count": 16399,
-    "open_issues_count": 44,
-    "forks_count": 5279
+    "stargazers_count": 16433,
+    "open_issues_count": 54,
+    "forks_count": 5284
   },
   {
     "full_name": "OffcierCia/On-Chain-Investigations-Tools-List",
-    "stargazers_count": 1646,
+    "stargazers_count": 1647,
     "open_issues_count": 0,
     "forks_count": 209
   },
   {
     "full_name": "freqtrade/freqtrade",
-    "stargazers_count": 40431,
-    "open_issues_count": 38,
-    "forks_count": 8091
+    "stargazers_count": 40505,
+    "open_issues_count": 37,
+    "forks_count": 8125
   },
   {
     "full_name": "richards199999/Thinking-Claude",
-    "stargazers_count": 15333,
+    "stargazers_count": 15340,
     "open_issues_count": 1,
     "forks_count": 1770
   },
   {
     "full_name": "janarosmonaliev/github-globe",
-    "stargazers_count": 1170,
+    "stargazers_count": 1169,
     "open_issues_count": 6,
     "forks_count": 197
   },
   {
     "full_name": "ourongxing/newsnow",
-    "stargazers_count": 11982,
-    "open_issues_count": 73,
-    "forks_count": 3506
+    "stargazers_count": 12020,
+    "open_issues_count": 71,
+    "forks_count": 3524
   },
   {
     "full_name": "anders94/blockchain-demo",
-    "stargazers_count": 5516,
-    "open_issues_count": 9,
-    "forks_count": 2731
+    "stargazers_count": 5518,
+    "open_issues_count": 10,
+    "forks_count": 2732
   },
   {
     "full_name": "web3/web3.js",
     "stargazers_count": 19795,
     "open_issues_count": 144,
-    "forks_count": 5065
+    "forks_count": 5064
   },
   {
     "full_name": "feder-cr/Jobs_Applier_AI_Agent_AIHawk",
-    "stargazers_count": 28446,
+    "stargazers_count": 28459,
     "open_issues_count": 11,
     "forks_count": 4297
   }
