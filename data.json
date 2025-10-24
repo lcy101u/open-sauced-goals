@@ -1,15 +1,15 @@
 [
   {
     "full_name": "nodejs/node",
-    "stargazers_count": 113893,
-    "open_issues_count": 2339,
-    "forks_count": 33533
+    "stargazers_count": 113928,
+    "open_issues_count": 2351,
+    "forks_count": 33541
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 107309,
-    "open_issues_count": 11611,
-    "forks_count": 13871
+    "stargazers_count": 107390,
+    "open_issues_count": 11592,
+    "forks_count": 13884
   },
   {
     "full_name": "lcy101u/twitter-api-2020",
@@ -19,8 +19,8 @@
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 78829,
-    "open_issues_count": 56,
-    "forks_count": 7524
+    "stargazers_count": 78948,
+    "open_issues_count": 57,
+    "forks_count": 7536
   }
 ]
