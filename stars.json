@@ -1,27 +1,27 @@
 [
   {
     "full_name": "Fission-AI/OpenSpec",
-    "stargazers_count": 11748,
-    "open_issues_count": 102,
-    "forks_count": 839
+    "stargazers_count": 12151,
+    "open_issues_count": 103,
+    "forks_count": 857
   },
   {
     "full_name": "anthropics/skills",
-    "stargazers_count": 19897,
-    "open_issues_count": 86,
-    "forks_count": 1899
+    "stargazers_count": 20446,
+    "open_issues_count": 88,
+    "forks_count": 1956
   },
   {
     "full_name": "666ghj/BettaFish",
-    "stargazers_count": 31697,
-    "open_issues_count": 89,
-    "forks_count": 6095
+    "stargazers_count": 32553,
+    "open_issues_count": 104,
+    "forks_count": 6255
   },
   {
     "full_name": "volcengine/MineContext",
-    "stargazers_count": 4467,
-    "open_issues_count": 91,
-    "forks_count": 318
+    "stargazers_count": 4518,
+    "open_issues_count": 90,
+    "forks_count": 321
   },
   {
     "full_name": "sskender/pornhub-api",
@@ -31,69 +31,69 @@
   },
   {
     "full_name": "just-krivi/option-pricing-models",
-    "stargazers_count": 307,
+    "stargazers_count": 308,
     "open_issues_count": 7,
     "forks_count": 75
   },
   {
     "full_name": "Zie619/n8n-workflows",
-    "stargazers_count": 47311,
+    "stargazers_count": 47556,
     "open_issues_count": 9,
-    "forks_count": 5328
+    "forks_count": 5392
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 54142,
-    "open_issues_count": 487,
-    "forks_count": 4702
+    "stargazers_count": 54878,
+    "open_issues_count": 499,
+    "forks_count": 4764
   },
   {
     "full_name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-    "stargazers_count": 99968,
-    "open_issues_count": 101,
-    "forks_count": 26746
+    "stargazers_count": 100332,
+    "open_issues_count": 102,
+    "forks_count": 26829
   },
   {
     "full_name": "anthropics/prompt-eng-interactive-tutorial",
-    "stargazers_count": 27145,
+    "stargazers_count": 27189,
     "open_issues_count": 39,
-    "forks_count": 2563
+    "forks_count": 2566
   },
   {
     "full_name": "ryoppippi/ccusage",
-    "stargazers_count": 9159,
-    "open_issues_count": 55,
-    "forks_count": 291
+    "stargazers_count": 9210,
+    "open_issues_count": 56,
+    "forks_count": 292
   },
   {
     "full_name": "Wangxs404/video2ppt",
-    "stargazers_count": 211,
+    "stargazers_count": 212,
     "open_issues_count": 1,
     "forks_count": 35
   },
   {
     "full_name": "HumanAIGC/EMO",
-    "stargazers_count": 7652,
+    "stargazers_count": 7653,
     "open_issues_count": 258,
-    "forks_count": 939
+    "forks_count": 937
   },
   {
     "full_name": "infiniflow/ragflow",
-    "stargazers_count": 69025,
-    "open_issues_count": 2958,
-    "forks_count": 7491
+    "stargazers_count": 69558,
+    "open_issues_count": 2976,
+    "forks_count": 7546
   },
   {
     "full_name": "n8n-io/n8n",
-    "stargazers_count": 161404,
-    "open_issues_count": 1296,
-    "forks_count": 51683
+    "stargazers_count": 162113,
+    "open_issues_count": 1287,
+    "forks_count": 51871
   },
   {
     "full_name": "wonderwhy-er/DesktopCommanderMCP",
-    "stargazers_count": 5036,
-    "open_issues_count": 66,
-    "forks_count": 563
+    "stargazers_count": 5056,
+    "open_issues_count": 68,
+    "forks_count": 567
   },
   {
     "full_name": "hyoban/sakuin",
@@ -103,13 +103,13 @@
   },
   {
     "full_name": "FoundationAgents/OpenManus",
-    "stargazers_count": 51184,
-    "open_issues_count": 521,
-    "forks_count": 8923
+    "stargazers_count": 51242,
+    "open_issues_count": 524,
+    "forks_count": 8942
   },
   {
     "full_name": "akazwz/openchat-monorepo",
-    "stargazers_count": 561,
+    "stargazers_count": 562,
     "open_issues_count": 1,
     "forks_count": 55
   },
@@ -127,27 +127,27 @@
   },
   {
     "full_name": "leochen-g/dify-schedule",
-    "stargazers_count": 696,
+    "stargazers_count": 698,
     "open_issues_count": 20,
-    "forks_count": 706
+    "forks_count": 705
   },
   {
     "full_name": "DavidHDev/react-bits",
-    "stargazers_count": 31968,
-    "open_issues_count": 2,
-    "forks_count": 1395
+    "stargazers_count": 32117,
+    "open_issues_count": 1,
+    "forks_count": 1408
   },
   {
     "full_name": "David-patrick-chuks/Riona-AI-Agent",
-    "stargazers_count": 4115,
+    "stargazers_count": 4120,
     "open_issues_count": 40,
-    "forks_count": 804
+    "forks_count": 805
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 73430,
-    "open_issues_count": 165,
-    "forks_count": 8781
+    "stargazers_count": 73569,
+    "open_issues_count": 173,
+    "forks_count": 8800
   },
   {
     "full_name": "spaceandtimefdn/SxT-Go-SDK",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "ghostty-org/ghostty",
-    "stargazers_count": 39226,
-    "open_issues_count": 212,
-    "forks_count": 1292
+    "stargazers_count": 39386,
+    "open_issues_count": 201,
+    "forks_count": 1304
   },
   {
     "full_name": "vercel/next-forge",
-    "stargazers_count": 6761,
+    "stargazers_count": 6770,
     "open_issues_count": 53,
     "forks_count": 616
   },
   {
     "full_name": "virattt/ai-hedge-fund",
-    "stargazers_count": 42570,
+    "stargazers_count": 42603,
     "open_issues_count": 42,
-    "forks_count": 7570
+    "forks_count": 7574
   }
 ]
